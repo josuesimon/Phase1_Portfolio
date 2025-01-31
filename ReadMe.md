@@ -27,19 +27,23 @@ This project aims to collect, structure, and analyze a dataset that will be used
 
 ## Analytical Questions
 1. **What does your dataset explore?**
-   - [Provide a brief description of the dataset and its context]
-2. **What is your dependent variable?**
-   - [Specify the target variable]
-3. **Is this variable categorical or quantitative?**
-   - [Indicate the type]
-4. **What are your independent variables?**
-   - [List the independent variables]
-5. **Are these variables quantitative or categorical?**
-   - [Ensure a mix of both types]
-6. **How many independent variables do you have?**
-   - [Specify the count, ensuring more than 5]
-7. **How large is your dataset?**
-   - [Confirm dataset size is greater than 1000 rows]
+   - This dataset explores HPD's efforts to finance affordable housing projects throughout NYC. It provides information such as project details, timeline, type, and number of units.
+2. **What is your dependent variable? Is this variable categorical or quantitative?**
+   - "Total Units" is a quantitative variable.
+3. **What are your independent variables? Are these variables quantitative or categorical? How many independent variables do you have?**
+   - Here are some of the independent variables:
+Borough: (Categorical)
+Reporting Construction Type: (Categorical)
+Project Name: (Categorical)
+Project Start Date: (Quantitative)
+Project Completion Date: (Quantitative)
+Community Board: (Categorical) 
+Council District: (Categorical)
+Latitude: (Quantitative)
+Longitude: (Quantitative)
+ Postcode: (Categorical)
+4. **How large is your dataset?**
+   - Our entire dataset has 3, 635 rows and 19 columns.
 
 ## Collaboration Guidelines
 - **GitHub Repository:** [Provide the repository link]
