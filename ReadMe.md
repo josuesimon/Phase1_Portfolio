@@ -32,16 +32,16 @@ This project aims to collect, structure, and analyze a dataset that will be used
    - "Total Units" is a quantitative variable.
 3. **What are your independent variables? Are these variables quantitative or categorical? How many independent variables do you have?**
    - Here are some of the independent variables:
-Borough: (Categorical)
-Reporting Construction Type: (Categorical)
-Project Name: (Categorical)
-Project Start Date: (Quantitative)
-Project Completion Date: (Quantitative)
-Community Board: (Categorical) 
-Council District: (Categorical)
-Latitude: (Quantitative)
-Longitude: (Quantitative)
- Postcode: (Categorical)
+    1. Borough: (Categorical)
+    2. Reporting Construction Type: (Categorical)
+    3. Project Name: (Categorical)
+    4. Project Start Date: (Quantitative)
+    5. Project Completion Date: (Quantitative)
+    6. Community Board: (Categorical) 
+    7. Council District: (Categorical)
+    8. Latitude: (Quantitative)
+    9. Longitude: (Quantitative)
+    10. Postcode: (Categorical)
 4. **How large is your dataset?**
    - Our entire dataset has 3, 635 rows and 19 columns.
 
