@@ -43,7 +43,7 @@ This project aims to collect, structure, and analyze a dataset that will be used
     9. Longitude: (Quantitative)
     10. Postcode: (Categorical)
 4. **How large is your dataset?**
-   - Our entire dataset has 3, 635 rows and 19 columns.
+   - Our entire dataset has 3, 634 rows and 19 columns.
 
 ## Collaboration Guidelines
 - **GitHub Repository:** [Provide the repository link]
